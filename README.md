@@ -13,8 +13,8 @@ The OpenLTTO Barrel Module is designed to mimic the form factor of the LTTO Delu
 
 The module includes 5 Pin IR IN and IR OUT ports, as well as an optimized 1A LED Driver for the IR LED, along with paired Muzzle Flash LEDs. The Module supports both outdoor (high power, 1A), and indoor (low power) modes, controlled from the motherboard. And includes a power ballast (capacitor, and inrush arrester pair) to prevent ripples, and ensure smooth operation.
 
-## OpenLTTO Barrel Module Top Side
+## OpenLTTO Barrel Module Front Side
 ![Image of OpenLTTO Barrel Module Front](https://github.com/OpenLTTO/OpenLTTO-Barrel-Module/blob/main/OpenLTTO%20Barrel%20Module%20Front.png?raw=true)
 
-## OpenLTTO Barrel Module Bottom Side
+## OpenLTTO Barrel Module Back Side
 ![Image of OpenLTTO Barrel Module Back](https://github.com/OpenLTTO/OpenLTTO-Barrel-Module/blob/main/OpenLTTO%20Barrel%20Module%20Back.png?raw=true)
